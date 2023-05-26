@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Nguy-n-Xu-n-o-n-s-workspace-bvqodq.us-east-1.xata.sh/db/authentication_ex",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
